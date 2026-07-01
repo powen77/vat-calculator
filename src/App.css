@@ -11,3 +11,8 @@
 .header{
   padding: 10px;
 }
+
+body {
+  background-color: darksalmon;
+  font-family: fantasy;
+}
